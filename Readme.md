@@ -1,3 +1,4 @@
+![logo](https://github.com/Hassan1ahmad/Hassan1ahmad/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Hassan Ahmad</h1>
 <h3 align="center">Transforming ideas into interactive web experiences</h3>
 
@@ -8,13 +9,13 @@
 
 - My Personal project (Using Next JS) [Job Pilot](https://pilot-job.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://hassanporfolio.netlify.app/](https://hassanporfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://hassanporfolio.netlify.app/)
 
 - 💬 Ask me about **React JS, MERN Stack, Next JS**
 
 - 📫 How to reach me **hassan1ahamd999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18M8JAsgd5MH9d0S8N80eF3nKPxpiCkjc/view](https://drive.google.com/file/d/18M8JAsgd5MH9d0S8N80eF3nKPxpiCkjc/view)
+- 📄 My  [resume](https://drive.google.com/file/d/18M8JAsgd5MH9d0S8N80eF3nKPxpiCkjc/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +31,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan1ahmad&show_icons=true&locale=en&layout=compact" alt="hassan1ahmad" /></p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan1ahmad&show_icons=true&theme=dark&locale=en" alt="hassan1ahmad" /></p>
