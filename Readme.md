@@ -3,7 +3,7 @@
 <h3 align="center">Transforming ideas into interactive web experiences</h3>
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React Native**
 
 - My Personal project (Using MERN Stack) [Skyline RealEstate](https://skylinerealestate.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://hassanporfolio.netlify.app/)
 
-- 💬 Ask me about **React JS, MERN Stack, Next JS**
+- 💬 Ask me about **React JS, MERN Stack, Next JS, React Native**
 
 - 📫 How to reach me **hassan1ahamd999@gmail.com**
 
